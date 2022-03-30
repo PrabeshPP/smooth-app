@@ -86,6 +86,8 @@
     "@login": {
         "description": "Text field hint: unified name for either username or e-mail address"
     },
+    "login_page_username_or_email": "Please enter username or e-mail",
+    "login_page_password_error_empty": "Please enter a password",
     "create_account": "Create account",
     "@create_account": {
         "description": "Button label: Opens a page where a new user can register"
@@ -288,13 +290,13 @@
     "@profile_navbar_label": {
         "description": "BottomNavigationBarLabel: For the profile and personal preferences page"
     },
-    "scan_navbar_label": "Profile",
+    "scan_navbar_label": "Search",
     "@scan_navbar_label": {
-        "description": "BottomNavigationBarLabel: For the profile and personal preferences page"
+        "description": "BottomNavigationBarLabel: For the searching of products"
     },
-    "history_navbar_label": "Profile",
+    "history_navbar_label": "History",
     "@history_navbar_label": {
-        "description": "BottomNavigationBarLabel: For the profile and personal preferences page"
+        "description": "BottomNavigationBarLabel: For the history and compare mode"
     },
     "category": "Filter by category",
     "@category": {
